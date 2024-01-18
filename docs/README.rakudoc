@@ -1,0 +1,29 @@
+=begin pod
+
+=head1 NAME
+
+B<Args::Utils> - Provides routines to aid @*ARGS handling for authors
+
+=head1 SYNOPSIS
+
+=begin code :lang<raku>
+
+use Args::Utils;
+
+=end code
+
+=head1 DESCRIPTION
+
+B<Args::Utils> is ...
+
+=head1 AUTHOR
+
+Tom Browder <tbrowder@acm.org>
+
+=head1 COPYRIGHT AND LICENSE
+
+© 2024 Tom Browder
+
+This library is free software; you may redistribute it or modify it under the Artistic License 2.0.
+
+=end pod

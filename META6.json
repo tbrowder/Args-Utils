@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "Provides routines to aid @*ARGS handling for authors",
+  "license": "Artistic-2.0",
+  "name": "Args::Utils",
+  "perl": "6.d",
+  "provides": {
+    "Args::Utils": "lib/Args/Utils.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
